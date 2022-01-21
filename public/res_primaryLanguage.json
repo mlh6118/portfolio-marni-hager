@@ -1,7 +1,7 @@
 {
     "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Marni Hager. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description_header": "Greetings!",
+      "description": "My name is Marni Hager. I'm a software developer with a background in manufacturing engineering for aerospace companies. As a manufacturing engineer, I have learned to optimize various types of processes, including mapping out the steps of a process and determining which are value added and which are waste. I have translated this into code in more recent years at my job by automating processes that were taking a full day into something that takes less than an hour. My current goal is to find a job that will allow me to combine my skills as a manufacturing engineer with being a programmer.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -62,7 +62,7 @@
           "images/portfolio/adventure/p1.jpg",
           "images/portfolio/adventure/p2.jpg"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/mlh6118",
         "technologies": [
           {
             "class": "devicon-angularjs-plain",
