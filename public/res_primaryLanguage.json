@@ -11,70 +11,71 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
+        "title": "Escape Room for Kids",
         "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "description": "An online escape room built for kids ages 6-10 to introduce them to the mechanics of how online escape rooms work.  Three puzzles implemented modals and utilized local storage.  (Partner: David Turner)",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/201EscapeRoom.png"
         ],
-        "url": "",
+        "url": "https://mlh6118.github.io/201EscapeRoom/",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "fab fa-html5",
+            "name": "HTML5"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "fab fa-css3",
+            "name": "CSS"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
-        "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
-          },
-          {
-            "class": "devicon-javascript-plain",
+            "class": "fab fa-js",
             "name": "JavaScript"
           }
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "BusMall",
+        "startDate": "2020",
+        "description": "Project that allows users to view three images of products at one time and select their favorite.  There are 15 voting rounds.  Following the voting rounds, users may view how many times and image was shown, as well as how many times it was selected, in a bar graph format.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/BusMall.png"
         ],
-        "url": "https://github.com/mlh6118",
+        "url": "https://mlh6118.github.io/bus-mall/",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "fab fa-html5",
+            "name": "HTML5"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "fab fa-css3",
+            "name": "CSS"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "fab fa-js",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "Salmon Cookies",
+        "startDate": "2020",
+        "description": "Project that demonstrated the use of HTML, CSS, and Javascript which calculated the number of cookies sold by various stores in a table format.  Data could also be added to the table and would be added to the calculations.",
+        "images": [
+          "images/portfolio/SalmonCookies.png"
+        ],
+        "url": "https://mlh6118.github.io/cookie-stand/",
+        "technologies": [
+          {
+            "class": "fab fa-html5",
+            "name": "HTML5"
+          },
+          {
+            "class": "fab fa-css3",
+            "name": "CSS"
+          },
+          {
+            "class": "fab fa-js",
+            "name": "JavaScript"
           }
         ]
       }

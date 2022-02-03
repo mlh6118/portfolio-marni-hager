@@ -45,19 +45,19 @@ class Footer extends Component {
                 }
                 style={{ display: "inline" }}
               >
-                <span
+                {/* <span
                   className="iconify language-icon"
                   data-icon="twemoji-flag-for-flag-poland"
                   data-inline="false"
                   id={window.$secondaryLanguageIconId}
-                ></span>
+                ></span> */}
               </div>
             </div>
             <div className="col">
               <div className="copyright py-4 text-center">
                 <div className="container">
                   <small>
-                    Copyright &copy;{" "}
+                    Copyright &copy;{"2021"}
                     {this.props.sharedBasicInfo
                       ? this.props.sharedBasicInfo.name
                       : "???"}
